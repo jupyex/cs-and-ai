@@ -1,4 +1,5 @@
 # CS50x - Introduction to Computer Science 2023
+This page consists of the notes that I have taken and some codes during my CS50 class in Harvard. 
 ## Visual Studio Code
 ```
 $code hello.c

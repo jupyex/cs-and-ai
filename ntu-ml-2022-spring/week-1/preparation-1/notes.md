@@ -1,6 +1,6 @@
 ## What is Machine Learning?
 It is just simply about finding a suitable function. 
-!(https://github.com/jupyex/cs-and-ai/blob/main/ntu-ml-2022-spring/week-1/preparation-1/Pasted image 20230212163938.png)
+!(Pasted image 20230212163938.png)
 And there are different types of functions, here are a few of them:
 - Regression, where the function outputs a number. For instance, we use a regression function in prediction tasks.
 !(Pasted image 20230212164542.png)

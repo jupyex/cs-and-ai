@@ -1,4 +1,4 @@
-# Self-taught Computer Science and Artificial Intelligence (est. 2023)
+# Self-taught Computer Science and Artificial Intelligence (est. 2019)
 |Date|Resource|Remarks|Rating|
 |------------ | ------------| ------------| ------------|
 |20230212 |[【機器學習2021】預測本頻道觀看人數 (上) - 機器學習基本概念簡介](https://www.youtube.com/watch?v=Ye018rCVvOo)| [Notes](ntu-ml-2022-spring/week-1/preparation-1/)|9/10|

@@ -3,7 +3,7 @@ It is just simply about finding a suitable function.
 !(Pasted image 20230212163938.png)
 And there are different types of functions, here are a few of them:
 - Regression, where the function outputs a number. For instance, we use a regression function in prediction tasks.
-!(ntu-ml-2022-spring/week-1/preparation-1/Pasted image 20230212164542.png)
+![image](ntu-ml-2022-spring/week-1/preparation-1/Pasted image 20230212164542.png "Image")
 - Classification: Given different options, the function classifies it into the correct option.
 !(Pasted image 20230212164844.png)
 - Structured learning: Creating stuff (e.g., creating a piece of writing)

@@ -1,3 +1,4 @@
+# Preparation Video 1 - Notes
 ## What is Machine Learning?
 It is just simply about finding a suitable function. 
 <img src="Pasted image 20230212163938.png">

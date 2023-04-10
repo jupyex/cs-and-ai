@@ -1,4 +1,4 @@
-# Self-taught Math, Computer Science and Artificial Intelligence (est. 2019)
+# Self-taught Computer Science and Engineering
 |Date|Resource|Remarks|Rating|Category|
 |------------ | ------------| ------------| ------------|------------|
 |2023 Late Jan|[CS50x-2023 Week 1](https://cs50.harvard.edu/x/2023/weeks/1/)|[Notes](cs50x-2023/week-1-c/)|10/10|General CS|

@@ -2,4 +2,5 @@
 ## Where should you start with?
 1. [Terms](terms.md)
 2. [Debugging](debugging.md)
-3. [Arrays](arrays.md)
+3. [Data Types](data-types.md)
+4. [Arrays](arrays.md)

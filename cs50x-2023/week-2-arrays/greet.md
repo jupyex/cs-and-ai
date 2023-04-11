@@ -1,5 +1,5 @@
-# greet.c
-
+# Command Line Arguments
+## greet.c
 ```c
 #include <cs50.h>
 #include <stdio.h>
@@ -28,4 +28,14 @@ make greet
 ./greet
 ./greet IA
 ./greet infinity Aspirations
+```
+
+## cowsay
+Type this in CMD
+```
+cowsay i love you.
+```
+Other animals
+```
+cowsay -f sheep mehhh
 ```

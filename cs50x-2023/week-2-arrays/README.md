@@ -6,3 +6,4 @@
 4. [Arrays](arrays.md)
 5. [Strings](string.md)
 6. [More Command Line Arguments](cla.md)
+7. [Exit Status](status.md)

@@ -8,8 +8,8 @@
 ## Practice Problems and My Solution
 1. [Debug](pp/debug.c) 
 ## Problem Set and My Solution
-1. [Mario Less](pset-1/mario-less/mario.c) 
-2. [Mario More](pset-1/mario-more/mario.c)
-3. [Credit](pset-1/credit/credit.c)  
+1. [Mario Less](pset-1/mario-less/mario.c) with check50 `10/10` and style50 `0.90`
+2. [Mario More](pset-1/mario-more/mario.c) with check50 `10/10` and style50 `0.83`
+3. [Credit](pset-1/credit/credit.c) with check50 `15/15` and style50 `0.67`
 
 My solutions are currently unoptimized - there are a lot of repeated bits, and the functions are kinda duplicated. Do leave a comment down below if there you have any other alternative methods to solve the problem.

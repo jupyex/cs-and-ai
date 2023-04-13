@@ -10,3 +10,4 @@
 8. [Cryptography](cryptography.md)
 ## Problem Set and My Solution
 1. [Readability](pset-2/readability.c) with check50 `11/11` and style50 `0.85`
+2. [Bulbs](pset-2/bulbs.c) with check50 `10/10` and style50 `1.00`

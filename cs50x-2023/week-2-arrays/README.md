@@ -12,3 +12,4 @@
 1. [Readability](pset-2/readability.c) with check50 `11/11` and style50 `0.85`
 2. [Bulbs](pset-2/bulbs.c) with check50 `10/10` and style50 `1.00`
 3. [Caesar](pset-2/caesar.c) with check50 `11/11` and style50 `1.00`
+4. [Substitution](pset-2/subtitution.c) with check50 `18/18` and style50 `1.00`
